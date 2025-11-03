@@ -60,12 +60,13 @@ Students are responsible for reading and understanding all university-wide polic
 ## Course Schedule (subject to change)
 
 | Week | Dates | Monday (Lecture) | Wednesday (Discussion) | Friday (Computing Lab) |
+|------|-------|----------------|-----------------------------------|--------------|
 |      |       | Topic   | Text |   Empirical Paper | Methods Paper | Topic | Text |
 |------|-------|---------|------|-------------------|---------------|-------|------|
 | 1 | Jan 12-16 | Why is life so diverse? (debate) | Harmon Ch  1 | - | Felsenstein 1985 | R setup: install ape + phytools, load tree & trait data | Revell & Harmon Ch 1 |
 | 2 | Jan 19-23 | MLK Day  | - | Cheng et al New Phyt 2024 | Blomberg et al 2003 | PGLS & Phylogenetic signal | Revell & Harmon Ch 2 & 3 |
 | 3 | Jan 26-30 | PICs, PGLS, & ANOVAs | Harmon Ch 2 | Mahler et al 2010 Evolution | Martins & Hansen 1997 | BM on a phylogeny + SLOUCH | Revell & Harmon Ch 4 |
-| 4 | Feb 2-6 Brownian Motion as a model of trait evolution |	Harmon Ch 3 & 4	| Rivera et al 2024 Ecol Evol	| Stayton 2015 Evol	| Simulating BM	| Revell & Harmon Ch 4 |
+| 4 | Feb 2-6 | Brownian Motion as a model of trait evolution |	Harmon Ch 3 & 4	| Rivera et al 2024 Ecol Evol	| Stayton 2015 Evol	| Simulating BM	| Revell & Harmon Ch 4 |
 | 5	| Feb 9-13 |	Multivariate BM |	Harmon Ch 5 |	Hunt & Felice et al 2023 Evolution | Adams & Collyer 2019 Ann Rev |	Trait-dependent BM on a phylogeny |	Revell & Harmon Ch 5 |
 | 6 | Feb 16-20 |	Ornstein-Uhlenbeck Models |	Harmon Ch 6 |	Miller al et Arcila 2025 Nat Eco Evo | Butler & King 2004 Am Nat |	Evolution under OU on a phylogeny |	Revell & Harmon Ch 5 |
 | 7	| Feb 23 – 27 |	Discrete character evolution |	Harmon Ch 7-8 |	Kontopoulos et al 2025 Functional Ecol |	Huelsenbeck 2003 |	Fitting Mk Models |	Revell & Harmon Ch 6 |
