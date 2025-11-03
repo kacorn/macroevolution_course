@@ -71,45 +71,12 @@ Students are responsible for reading and understanding all university-wide polic
 | 7	| Feb 23 – 27 |	Discrete character evolution |	Harmon Ch 7-8 |	Kontopoulos et al 2025 Functional Ecol |	Huelsenbeck 2003 |	Fitting Mk Models |	Revell & Harmon Ch 6 |
 | 8	| Mar 2-6 |	Extended Mk Models & HMMs |	Harmon Ch 9 |	Boyko et al 2023 New Phyt |	Boyko & Beaulieu Syst Biol 2023 |	Ancestral state estimation |	Revell & Harmon Ch 7 |
 | 9	| Mar 9 – 13 |	Accounting for alternative sources of rate variation in continuous data | TBD | Burress & Muñoz 2022 Syst Biol	| Uyeda & Harmon 2014 |	Background rates in continuous data |	RevBayes/ MuSSCRat lab(?) (TBD) |
-| - |	Mar 16-21 |	Spring break		| - | - | - | - | - | 
+| - |	Mar 16-21 |	Spring break		| 
 | 10 |	Mar 23-27 |	Speciation & extinction |	Harmon Ch 10-11 |	Bars-Closel et al 2017 Evolution |	Nee et al 1994 |	Lineage through time plots & estimating speciation on trees |	Revell & Harmon Ch 9 |
 | 11 |	Mar 30 - Apr 3 |	Extended birth-death models |	Harmon Ch 12 |	Singhal et al 2025 Evol J Linn Soc |	Rabosky 2014 Plos One |	Estimating time-varying diversification on trees |	Revell & Harmon Ch 10 |
 | 12 |	Apr 6-10 |	Character-dependent lineage diversification models |	Harmon Ch 13 |	Zenil-Ferguson et al 2019 New Phyt |	Beaulieu & O'Meara 2016 Syst. Biol |	Estimating character-dependent diversification |	Revell & Harmon Ch 11 |
 | 13 |	Apr 13 - 17 |	Biogeography & community ecology |	Ronquist & Sanmartín 2011 |	Kawahara et al 2023 Nat Eco Evo |	Swiston & Landis Syst. Biol 2025 |	Ancestral area reconstruction |	Revell & Harmon Ch 12 |
 | 14 | Apr 20-24 |	Testing causal hypotheses in macro-evolution | Uyeda et al 2018 Syst Biol |	TBD |	Maddison & FitzJohn 2015 Syst. Biol |	Mini-project planning, plotting |	Revell & Harmon Ch 13 |
 | 15 | Apr 27 - May 1 |	Course wrap-up & future directions | TBD	|	Bastide et al Syst Biol 2018  Networks |	O'Meara 2012 Ann Rev |	Project analyses & code clinic | - |
-| Finals Week |	May 4-8 |	Project presentations | - | - | - | - | - | 
+| Finals Week |	May 4-8 |	Project presentations |  
 
-
-| Date       | Topic                                             | Reading                   | Assignments                        |
-|------------|---------------------------------------------------|---------------------------|------------------------------------|
-| T 8/27     | 1. Introductions & intro to macroevolution        | Baum & Smith Ch. 1-3      |                                    |
-| Th 8/29    | 2. History of phylogenetic methods                | Baum & Smith Ch. 1-3      |                                    |
-| T 9/3      | 3. Probability, likelihood, & Rev. Bayes          | Baum & Smith Ch. 4 & 7    | Assignment I (Self-Test)           |
-| Th 9/5     | 4. Lab: Likelihood                                |                           |                                    |
-| T 9/10     | 5. Felsenstein & the birth of statistical phylogenetics | Baum & Smith             |                                    |
-| Th 9/12    | 6. Discrete character evolution                   | O'Meara 2012              |                                    |
-| T 9/17     | 7. Discrete character evolution II                |                           |                                    |
-| Th 9/19    | 8. Inferring phylogenies from molecular data      |                           |                                    |
-| T 9/24     | 9. Bayesian methods of inference                  |                           |                                    |
-| Th 9/26    | 10. **Exam I**                                    |                           |                                    |
-| T 10/1     | 11. Dating phylogenetic trees                     |                           |                                    |
-| Th 10/3    | 12. Biogeographic models                          |                           |                                    |
-| T 10/8     | 13. Revbayes lab: Biogeography                    |                           |                                    |
-| Th 10/10   | 14. Discrete traits - correlations, integration, & dependency |                     |                                    |
-| T 10/15    | 15. Brownian Motion & continuous trait evolution  |                           |                                    |
-| Th 10/17   | 16. The comparative method & PICs                 | Felsenstein 1985          | Assignment II: Project proposal    |
-| T 10/22    | 17. Modeling adaptation                           | Hansen 1997               |                                    |
-| Th 10/24   | 18. Ornstein-Uhlenbeck models II                  | Butler and King 2004      |                                    |
-| T 10/29    | 18. Finding evolutionary shifts                   |                           |                                    |
-| Th 10/31   | 19. Hidden state models                           | Beaulieu et al. 2013      |                                    |
-| T 11/5     | 20. **Exam II**                                   |                           |                                    |
-| Th 11/7    | 21. Species selection - SSE models                |                           |                                    |
-| T 11/12    | 22. SSE Models                                    |                           |                                    |
-| Th 11/14   | 23. Linking micro & macroevolution                |                           |                                    |
-| T 11/19    | 24. Punctuated equilibrium                        | Eldredge and Gould, 1972  |                                    |
-| Th 11/21   | No Class - Thanksgiving Holiday                   |                           |                                    |
-| T 11/26    | No Class - Thanksgiving Holiday                   |                           |                                    |
-| Th 11/28   | 25. Grand challenges                              |                           |                                    |
-| T 12/3     | 26. Presentations                                 |                           |                                    |
-| Th 12/5    | 27. Presentations                                 |                           |                                    |
