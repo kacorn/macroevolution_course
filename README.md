@@ -59,10 +59,8 @@ Students are responsible for reading and understanding all university-wide polic
 
 ## Course Schedule (subject to change)
 
-| Week | Dates | Monday (Lecture) | Wednesday (Discussion) | Friday (Computing Lab) |
-|------|-------|----------------|-----------------------------------|--------------|
-|      |       | Topic   | Text |   Empirical Paper | Methods Paper | Topic | Text |
-|------|-------|---------|------|-------------------|---------------|-------|------|
+| Week | Dates |  Lecture Topic   | Lecture Text |  Empirical Paper | Methods Paper | Lab Topic | Lab Text |
+|------|-------|------------------|--------------|------------------|---------------|-----------|----------|
 | 1 | Jan 12-16 | Why is life so diverse? (debate) | Harmon Ch  1 | - | Felsenstein 1985 | R setup: install ape + phytools, load tree & trait data | Revell & Harmon Ch 1 |
 | 2 | Jan 19-23 | MLK Day  | - | Cheng et al New Phyt 2024 | Blomberg et al 2003 | PGLS & Phylogenetic signal | Revell & Harmon Ch 2 & 3 |
 | 3 | Jan 26-30 | PICs, PGLS, & ANOVAs | Harmon Ch 2 | Mahler et al 2010 Evolution | Martins & Hansen 1997 | BM on a phylogeny + SLOUCH | Revell & Harmon Ch 4 |
