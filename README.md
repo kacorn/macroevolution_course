@@ -9,7 +9,7 @@
 ## Textbooks
 None are required to be purchased; readings will be provided from the primary literature, as well as from the following texts. Purchase of these texts is optional, though they are great reference material for those interested in macroevolution.
 
-- Revell, Liam J., and Luke J. Harmon. *Phylogenetic comparative methods in R*. Princeton University Press, 2022.
+- Revell, Liam J., and Luke J. Harmon. *Phylogenetic comparative methods in R*. Princeton University Press, 2022. [Supplementary info](http://www.phytools.org/Rbook/)
 - Harmon, Luke J. *Phylogenetic Comparative Methods*. 2022. [link](https://lukejharmon.github.io/pcm/)
 
 Readings will be provided as pdfs on Dr. Corn’s GitHub repository (https://github.com/kacorn/macroevolution_course).
