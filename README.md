@@ -23,7 +23,7 @@ Theory and practice of modern phylogenetic comparative methods. Students will le
 Students should make all reasonable efforts to attend all class meetings. You are expected to participate in all discussions, have completed all readings before class, and to fully engage with the material and your classmates. However, in the event a student is unable to attend a class, it is the responsibility of the student to inform the instructor as soon as possible and make up class work missed within a reasonable amount of time. Missing more than 5 class meetings will result a reduction of the overall grade in the class due to a reduced participation score. Any relevant recordings, slides, and relevant notes will be available on Canvas or GitHub.
 
 ### Course Syllabus
-The course syllabus is subject to change by the instructor. Changes will be announced in class and on Canvas. 
+The course syllabus is subject to change by the instructor. Changes will be announced in class and on Canvas.
 
 ### Student Evaluation
 - **Participation**: In discussions of primary literature (100 points)
@@ -34,9 +34,9 @@ The course syllabus is subject to change by the instructor. Changes will be anno
 Course participants will perform a research project that will analyze phylogenetic data using the methods and techniques learned in class. This project is largely open-ended and up to the student. Suggested topics include: analyzing existing phenotypic datasets with phylogenetic comparative methods, exploring the diversification history of a clade, or conducting a simulation study of phylogenetic model behavior. Students are strongly encouraged to bring their own data for this project.
 
 ### Technology
-Please respect my time and submit your own thoughts. ChatGPT and other generative artificial intelligence tools are not permitted in this course. Any use of AI tools may result in a 0 on the appropriate assignment, quiz, and/or on the course final grade. 
+Please respect my time and submit your own thoughts. ChatGPT and other generative artificial intelligence tools are not permitted in this course. Any use of AI tools may result in a 0 on the appropriate assignment, quiz, and/or on the course final grade.
 
-### Academic Integrity 
+### Academic Integrity
 Academic integrity is the foundation of learning. You are responsible for reading WSU's Academic Integrity Policy, which is based on Washington State law. If you cheat in your work in this class you will:
 - Receive a 0 on the appropriate assignment, quiz, presentation, or overall grade in the class.
 - Be reported to the Center for Community Standards
@@ -45,9 +45,9 @@ Academic integrity is the foundation of learning. You are responsible for readin
 If you have any questions about what you can and cannot do in this course, ask me.
 If you want to ask for a change in my decision about academic integrity, use the form at the Center for Community Standards website. You must submit this request within 21 calendar days of the decision.
 
-### Expectations for Student Effort & Classroom Decorum 
+### Expectations for Student Effort & Classroom Decorum
 For each hour of lecture equivalent, students should expect to have a minimum of two hours of work outside of class.
- 
+
 In support of fruitful and open academic discourse, we are all are expected to engage in courteous, civil, and mutually respectful exchanges focused on and relevant to the course materials. Students should not engage in disruptive behavior which obstructs or disrupts the learning environment, including, but not limited to, dominating the classroom or online discussion, behavior that disrupts the flow of instruction, or failure to cooperate in maintaining classroom decorum. Students engaging in behavior that is disruptive to the course objectives may be asked to leave or be referred to the appropriate disciplinary process. I am similarly committed to creating a civil and productive environment for the free exchange of ideas; students who have concerns about this should contact the department chair.
 
 ### Services for Students with Disabilities (SSD)
@@ -65,12 +65,12 @@ Students are responsible for reading and understanding all university-wide polic
 | 2 | Jan 19-23 |NA | NA | -  | [Uyeda et al 2018](pdfs/uyeda2018.pdf)  | The comparative approach in evolution [slides](https://docs.google.com/presentation/d/1Y_-f0LkPXKGh84_x4fAhUb9j0DVdqFy2cekS9yMn968/edit?usp=sharing)| Harmon [Chapter 2](https://lukejharmon.github.io/pcm/chapter2_stats/) |
 | 3 | Jan 26-30 | Introduction to R | Revell & Harmon Ch 1 | [Mahler et al 2010](pdfs/Mahler2010.pdf) | [Losos 2008](pdfs/losos2008.pdf) | Brownian motion [slides](https://docs.google.com/presentation/d/10qVSk8k7qs3RdrkMyGNXERtUa5Z35ohs/edit?usp=share_link&ouid=113905662326593519868&rtpof=true&sd=true) | Harmon [Chapter 3](https://lukejharmon.github.io/pcm/chapter3_bmintro/) & [Chapter 4](https://lukejharmon.github.io/pcm/chapter4_fitbm/) |
 | 4 | Feb 2-6 | Making functions in R	| Revell & Harmon Ch 2  | [Rivera et al 2024 Ecol Evol](pdfs/Rivera2024.pdf)	| -	| PICs, PGLS [slides](https://docs.google.com/presentation/d/1nBHTotGdkNCWlsGa4rcZftcjWm_KegE7WszxfXJkegU/edit?usp=sharing) |	Harmon [Chapter 5](https://lukejharmon.github.io/pcm/chapter5_mvbm/)	|
-| 5 | Feb 9-13 |	Intro to trees in R |	Revell & Harmon Ch 5 |  [Miller al et Arcila 2025 Nat Eco Evo](pdfs/Miller2025) | - | Multivariate BM & Ornstein-Uhlenbeck | Harmon [Chapter 6](https://lukejharmon.github.io/pcm/chapter6_beyondbm/) |
+| 5 | Feb 9-13 |	Intro to trees in R |	Revell & Harmon Ch 5 |  [Miller al et Arcila 2025 Nat Eco Evo](pdfs/Miller2025.pdf) | - | Multivariate BM & Ornstein-Uhlenbeck | Harmon [Chapter 6](https://lukejharmon.github.io/pcm/chapter6_beyondbm/) |
 | 6	| Feb 16-20 |	NA |	NA | Project discussion prep | - | R catch up day: PGLS |  |
 | 7	| Feb 23 – 27 |	PICs |	Revell & Harmon Ch 3 |	[Kontopoulos et al 2025 Functional Ecol](pdfs/Kontopolous2025.pdf) | - | Practical applications to trait data |	[Adams & Collyer 2019 Ann Rev](pdfs/adamscollyer2019.pdf) |
 | 8	| Mar 2-6 |Multi-regime models in R	|	Revell & Harmon Ch 3 | [Baniaga et al 2020](/pdfs/Baniaga2020.pdf) | - |	Discrete character evolution |	Harmon [Chapter 7](https://lukejharmon.github.io/pcm/chapter7_introdiscrete/) & [Chapter 8](https://lukejharmon.github.io/pcm/chapter8_fitdiscrete/)  |
-| 9	| Mar 9 – 13 | Fitting Mk Models & Ancestral state estimation |	Revell & Harmon Ch 6 & 8 | [Cockx et al. 2025](pdfs/Cockx2025.pdf) |	[Bollback 2006](pdfs/Bollback2006.pdf) | 	Extended Mk Models & HMMs |	[Harmon Ch 9](https://lukejharmon.github.io/pcm/chapter9_beyondmk/) | 
-| - |	Mar 16-21 |	Spring break		| 
+| 9	| Mar 9 – 13 | Fitting Mk Models & Ancestral state estimation |	Revell & Harmon Ch 6 & 8 | [Cockx et al. 2025](pdfs/Cockx2025.pdf) |	[Bollback 2006](pdfs/Bollback2006.pdf) | 	Extended Mk Models & HMMs |	[Harmon Ch 9](https://lukejharmon.github.io/pcm/chapter9_beyondmk/) |
+| - |	Mar 16-21 |	Spring break		|
 | 10 |	Mar 23-27 |		Lineage through time plots & estimating speciation on trees | Revell & Harmon Ch 9 |	Bars-Closel et al 2017 Evolution |	Nee et al 1994 | Speciation & extinction | Harmon [Chapter 11](https://lukejharmon.github.io/pcm/chapter11_fitbd/) |
 | 11 |	Mar 30 - Apr 3 |	Estimating time-varying diversification on trees |	Revell & Harmon Ch 10 |	[Singhal et al 2025 Evol J Linn Soc](pdfs/Singhal2025.pdf) |	Rabosky 2014 Plos One |	 Extended birth-death models |	Harmon [Chapter 12](https://lukejharmon.github.io/pcm/chapter12_beyondbd/) |
 | 12 |	Apr 6-10 |	Estimating character-dependent diversification |	Revell & Harmon Ch 11 |	Zenil-Ferguson et al 2019 New Phyt |	Beaulieu & O'Meara 2016 Syst. Biol | Character-dependent lineage diversification models |	[Harmon Ch 13](https://lukejharmon.github.io/pcm/chapter13_chardiv/) |
@@ -78,4 +78,3 @@ Students are responsible for reading and understanding all university-wide polic
 | 14 | Apr 20-24 |		Mini-project planning, plotting |	Revell & Harmon Ch 13 |	- |	Maddison & FitzJohn 2015 Syst. Biol | Testing causal hypotheses in macro-evolution | Uyeda et al 2018 Syst Biol |
 | 15 | Apr 27 - May 1 |	Project analyses & code clinic | - |	Bastide et al Syst Biol 2018  Networks |	O'Meara 2012 Ann Rev |	 Course wrap-up & future directions | TBD	|
 | Finals Week |	May 4-8 |	Project presentations |  
-
