@@ -1,7 +1,7 @@
 # Course Syllabus - Macroevolution
 
 **Course**: BIOL 531  
-**Time**: Monday, Wednesday, & Friday 1:30-2:30pm, Abelson 306 (WSU) or Zoom  
+**Time**: Monday, Wednesday, & Friday 1:30-2:30pm, Abelson 306 (WSU), LSS 277 (UI), or Zoom  
 **Professors**: Prof. Katherine Corn & Prof. Luke Harmon
 **Email**: katherine.corn [at] wsu.edu  & lukeh [at] uidaho.edu   
 **Office hours**: By appointment
