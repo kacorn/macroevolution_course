@@ -73,8 +73,8 @@ Students are responsible for reading and understanding all university-wide polic
 | - |	Mar 16-21 |	Spring break		|
 | 10 |	Mar 23-27 |		Correlated discrete models on trees | Revell & Harmon Ch 7 |	[Bars-Closel et al 2017 Evolution](/pdfs/barsclosel2017.pdf) | - | Speciation & extinction | Harmon [Chapter 11](https://lukejharmon.github.io/pcm/chapter11_fitbd/) & Harmon [Chapter 12](https://lukejharmon.github.io/pcm/chapter12_beyondbd/) |
 | 11 |	Mar 30 - Apr 3 |	Estimating time-varying diversification on trees |	Revell & Harmon Ch 10 |	Project check-in meetings |	- |	 Phylogeographic models [slides](https://docs.google.com/presentation/d/1hclqJDVGYZ4jDzC8MyMolpC7U5t33Cfv/edit?usp=share_link&ouid=113905662326593519868&rtpof=true&sd=true) |	Ronquist & Sanmartín 2011 |
-| 12 |	Apr 6-10 |	Estimating character-dependent diversification |	Revell & Harmon Ch 11 |	Zenil-Ferguson et al 2019 New Phyt |	Beaulieu & O'Meara 2016 Syst. Biol | Character-dependent lineage diversification models |	[Harmon Ch 13](https://lukejharmon.github.io/pcm/chapter13_chardiv/) |
-| 13 |	Apr 13 - 17 |	Ancestral area reconstruction |	Revell & Harmon Ch 12 |	Kawahara et al 2023 Nat Eco Evo |	Swiston & Landis Syst. Biol 2025 | Biogeography & community ecology |	- |
-| 14 | Apr 20-24 |		Mini-project planning, plotting |	Revell & Harmon Ch 13 |	- |	Maddison & FitzJohn 2015 Syst. Biol | Cophylogenetics | - |
-| 15 | Apr 27 - May 1 |	Project analyses & code clinic | - |	Bastide et al Syst Biol 2018  Networks |	O'Meara 2012 Ann Rev |	 Course wrap-up & future directions | TBD	|
+| 12 |	Apr 6-10 |	BiSSE |	Revell & Harmon Ch 11 |	Zenil-Ferguson et al 2019 New Phyt |	- | Cophylogenetics |	[Harmon Ch 13](https://lukejharmon.github.io/pcm/chapter13_chardiv/) |
+| 13 |	Apr 13 - 17 |	BioGeoBEARs |	Revell & Harmon Ch 12 |	Kawahara et al 2023 Nat Eco Evo |	- | Practical applications |	- |
+| 14 | Apr 20-24 |		Mini-project planning, plotting |	Revell & Harmon Ch 13 |	TBA |	- | Course wrap up, Q&A | - |
+| 15 | Apr 27 - May 1 |	Project analyses & code clinic | - | TBA |	- |	No class | -	|
 | Finals Week |	May 4-8 |	Project presentations |  
