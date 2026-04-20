@@ -74,7 +74,7 @@ Students are responsible for reading and understanding all university-wide polic
 | 10 |	Mar 23-27 |		Correlated discrete models on trees | Revell & Harmon Ch 7 |	[Bars-Closel et al 2017 Evolution](/pdfs/barsclosel2017.pdf) | - | Speciation & extinction | Harmon [Chapter 11](https://lukejharmon.github.io/pcm/chapter11_fitbd/) & Harmon [Chapter 12](https://lukejharmon.github.io/pcm/chapter12_beyondbd/) |
 | 11 |	Mar 30 - Apr 3 |	Estimating time-varying diversification on trees |	Revell & Harmon Ch 10 |	Project check-in meetings |	- |	 Phylogeographic models [slides](https://docs.google.com/presentation/d/1hclqJDVGYZ4jDzC8MyMolpC7U5t33Cfv/edit?usp=share_link&ouid=113905662326593519868&rtpof=true&sd=true) |	Ronquist & Sanmartín 2011 |
 | 12 |	Apr 6-10 |	BiSSE |	Revell & Harmon Ch 11 |	[Zenil-Ferguson et al 2019 New Phyt](/pdfs/rzf_newphyt_2019.pdf) |	- | Cophylogenetics (treeducken!) |	- |
-| 13 |	Apr 13 - 17 |	BioGeoBEARs |	Revell & Harmon Ch 12 |	[Dismukes et al 2022](/pdfs/Dismukes_AnnRev_2022.pdf) |	- | Practical applications |	- |
+| 13 |	Apr 13 - 17 |	BioGeoBEARs |	Revell & Harmon Ch 12 |	[Dismukes et al 2022](/pdfs/Dismukes_AnnRev_2022.pdf) |	- | Practical applications [slides](https://docs.google.com/presentation/d/1QUwh1Kht2qphiWYb-8IpVISxyG7y7w3I/edit?usp=sharing&ouid=113905662326593519868&rtpof=true&sd=true) |	- |
 | 14 | Apr 20-24 |		Mini-project planning, plotting |	Revell & Harmon Ch 13 |	TBA |	- | Course wrap up, Q&A | - |
 | 15 | Apr 27 - May 1 |	Project analyses & code clinic | - | TBA |	- |	No class | -	|
 | Finals Week |	May 4-8 |	Project presentations |  
