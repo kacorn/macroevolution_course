@@ -76,5 +76,5 @@ Students are responsible for reading and understanding all university-wide polic
 | 12 |	Apr 6-10 |	BiSSE |	Revell & Harmon Ch 11 |	[Zenil-Ferguson et al 2019 New Phyt](/pdfs/rzf_newphyt_2019.pdf) |	- | Cophylogenetics (treeducken!) |	- |
 | 13 |	Apr 13 - 17 |	BioGeoBEARs |	Revell & Harmon Ch 12 |	[Dismukes et al 2022](/pdfs/Dismukes_AnnRev_2022.pdf) |	- | Practical applications [slides](https://docs.google.com/presentation/d/1QUwh1Kht2qphiWYb-8IpVISxyG7y7w3I/edit?usp=sharing&ouid=113905662326593519868&rtpof=true&sd=true) |	- |
 | 14 | Apr 20-24 |		Mini-project planning, plotting |	Revell & Harmon Ch 13 |	Project debugging |	- | Course wrap up, Q&A | - |
-| 15 | Apr 27 - May 1 |	Project analyses & code clinic | - | [Revell et al preprint]([pdfs/Revellpreprint2026.pdf](https://www.biorxiv.org/content/10.64898/2026.04.20.719455v1)) with guest [Liam Revell](https://faculty.umb.edu/liam.revell/index.html) |	- |	No class | -	|
+| 15 | Apr 27 - May 1 |	Project analyses & code clinic | - | [Revell et al preprint](https://www.biorxiv.org/content/10.64898/2026.04.20.719455v1) with guest [Liam Revell](https://faculty.umb.edu/liam.revell/index.html) |	- |	No class | -	|
 | Finals Week |	May 4-8 |	Project presentations |  
